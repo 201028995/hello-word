@@ -1,2 +1,8 @@
 # hello-word
-Mapa Topicos especiais em engenharia de software
+# readmi-edits
+# branch secundaria
+
+edit-1
+edit-2
+edit-3
+edit-4
